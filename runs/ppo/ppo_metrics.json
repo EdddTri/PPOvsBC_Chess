@@ -1,0 +1,133 @@
+{
+  "reward_shaping": true,
+  "total_timesteps": 1000000,
+  "best_win_vs_random": 0.275,
+  "history": [
+    {
+      "timesteps": 50000,
+      "win": 0.05,
+      "draw": 0.925,
+      "loss": 0.025
+    },
+    {
+      "timesteps": 100000,
+      "win": 0.0,
+      "draw": 1.0,
+      "loss": 0.0
+    },
+    {
+      "timesteps": 150000,
+      "win": 0.1,
+      "draw": 0.9,
+      "loss": 0.0
+    },
+    {
+      "timesteps": 200000,
+      "win": 0.05,
+      "draw": 0.95,
+      "loss": 0.0
+    },
+    {
+      "timesteps": 250000,
+      "win": 0.05,
+      "draw": 0.925,
+      "loss": 0.025
+    },
+    {
+      "timesteps": 300000,
+      "win": 0.175,
+      "draw": 0.825,
+      "loss": 0.0
+    },
+    {
+      "timesteps": 350000,
+      "win": 0.1,
+      "draw": 0.875,
+      "loss": 0.025
+    },
+    {
+      "timesteps": 400000,
+      "win": 0.125,
+      "draw": 0.875,
+      "loss": 0.0
+    },
+    {
+      "timesteps": 450000,
+      "win": 0.075,
+      "draw": 0.875,
+      "loss": 0.05
+    },
+    {
+      "timesteps": 500000,
+      "win": 0.15,
+      "draw": 0.8,
+      "loss": 0.05
+    },
+    {
+      "timesteps": 550000,
+      "win": 0.125,
+      "draw": 0.8,
+      "loss": 0.075
+    },
+    {
+      "timesteps": 600000,
+      "win": 0.15,
+      "draw": 0.85,
+      "loss": 0.0
+    },
+    {
+      "timesteps": 650000,
+      "win": 0.225,
+      "draw": 0.775,
+      "loss": 0.0
+    },
+    {
+      "timesteps": 700000,
+      "win": 0.075,
+      "draw": 0.9,
+      "loss": 0.025
+    },
+    {
+      "timesteps": 750000,
+      "win": 0.275,
+      "draw": 0.675,
+      "loss": 0.05
+    },
+    {
+      "timesteps": 800000,
+      "win": 0.15,
+      "draw": 0.85,
+      "loss": 0.0
+    },
+    {
+      "timesteps": 850000,
+      "win": 0.125,
+      "draw": 0.825,
+      "loss": 0.05
+    },
+    {
+      "timesteps": 900000,
+      "win": 0.15,
+      "draw": 0.85,
+      "loss": 0.0
+    },
+    {
+      "timesteps": 950000,
+      "win": 0.2,
+      "draw": 0.775,
+      "loss": 0.025
+    },
+    {
+      "timesteps": 1000000,
+      "win": 0.1,
+      "draw": 0.9,
+      "loss": 0.0
+    },
+    {
+      "timesteps": 1001472,
+      "win": 0.225,
+      "draw": 0.775,
+      "loss": 0.0
+    }
+  ]
+}

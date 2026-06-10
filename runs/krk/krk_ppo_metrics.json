@@ -1,0 +1,153 @@
+{
+  "total_timesteps": 2000000,
+  "best_mate_rate": 0.9,
+  "history": [
+    {
+      "timesteps": 100000,
+      "positions": 150,
+      "mate_rate": 0.0,
+      "fail_rate": 1.0,
+      "avg_plies_to_mate": null
+    },
+    {
+      "timesteps": 200000,
+      "positions": 150,
+      "mate_rate": 0.0,
+      "fail_rate": 1.0,
+      "avg_plies_to_mate": null
+    },
+    {
+      "timesteps": 300000,
+      "positions": 150,
+      "mate_rate": 0.06,
+      "fail_rate": 0.94,
+      "avg_plies_to_mate": 22.77777777777778
+    },
+    {
+      "timesteps": 400000,
+      "positions": 150,
+      "mate_rate": 0.29333333333333333,
+      "fail_rate": 0.7066666666666667,
+      "avg_plies_to_mate": 34.5
+    },
+    {
+      "timesteps": 500000,
+      "positions": 150,
+      "mate_rate": 0.44,
+      "fail_rate": 0.56,
+      "avg_plies_to_mate": 33.666666666666664
+    },
+    {
+      "timesteps": 600000,
+      "positions": 150,
+      "mate_rate": 0.52,
+      "fail_rate": 0.48,
+      "avg_plies_to_mate": 41.02564102564103
+    },
+    {
+      "timesteps": 700000,
+      "positions": 150,
+      "mate_rate": 0.5666666666666667,
+      "fail_rate": 0.43333333333333335,
+      "avg_plies_to_mate": 39.65882352941176
+    },
+    {
+      "timesteps": 800000,
+      "positions": 150,
+      "mate_rate": 0.5,
+      "fail_rate": 0.5,
+      "avg_plies_to_mate": 40.57333333333333
+    },
+    {
+      "timesteps": 900000,
+      "positions": 150,
+      "mate_rate": 0.6533333333333333,
+      "fail_rate": 0.3466666666666667,
+      "avg_plies_to_mate": 39.775510204081634
+    },
+    {
+      "timesteps": 1000000,
+      "positions": 150,
+      "mate_rate": 0.62,
+      "fail_rate": 0.38,
+      "avg_plies_to_mate": 38.204301075268816
+    },
+    {
+      "timesteps": 1100000,
+      "positions": 150,
+      "mate_rate": 0.6466666666666666,
+      "fail_rate": 0.35333333333333333,
+      "avg_plies_to_mate": 37.70103092783505
+    },
+    {
+      "timesteps": 1200000,
+      "positions": 150,
+      "mate_rate": 0.68,
+      "fail_rate": 0.32,
+      "avg_plies_to_mate": 39.72549019607843
+    },
+    {
+      "timesteps": 1300000,
+      "positions": 150,
+      "mate_rate": 0.6666666666666666,
+      "fail_rate": 0.3333333333333333,
+      "avg_plies_to_mate": 41.24
+    },
+    {
+      "timesteps": 1400000,
+      "positions": 150,
+      "mate_rate": 0.7866666666666666,
+      "fail_rate": 0.21333333333333335,
+      "avg_plies_to_mate": 40.91525423728814
+    },
+    {
+      "timesteps": 1500000,
+      "positions": 150,
+      "mate_rate": 0.8066666666666666,
+      "fail_rate": 0.19333333333333333,
+      "avg_plies_to_mate": 37.710743801652896
+    },
+    {
+      "timesteps": 1600000,
+      "positions": 150,
+      "mate_rate": 0.7733333333333333,
+      "fail_rate": 0.22666666666666666,
+      "avg_plies_to_mate": 36.62068965517241
+    },
+    {
+      "timesteps": 1700000,
+      "positions": 150,
+      "mate_rate": 0.86,
+      "fail_rate": 0.14,
+      "avg_plies_to_mate": 36.1937984496124
+    },
+    {
+      "timesteps": 1800000,
+      "positions": 150,
+      "mate_rate": 0.8466666666666667,
+      "fail_rate": 0.15333333333333332,
+      "avg_plies_to_mate": 35.346456692913385
+    },
+    {
+      "timesteps": 1900000,
+      "positions": 150,
+      "mate_rate": 0.8533333333333334,
+      "fail_rate": 0.14666666666666667,
+      "avg_plies_to_mate": 32.90625
+    },
+    {
+      "timesteps": 2000000,
+      "positions": 150,
+      "mate_rate": 0.9,
+      "fail_rate": 0.1,
+      "avg_plies_to_mate": 31.933333333333334
+    },
+    {
+      "timesteps": 2000896,
+      "positions": 150,
+      "mate_rate": 0.9,
+      "fail_rate": 0.1,
+      "avg_plies_to_mate": 31.607407407407408
+    }
+  ]
+}

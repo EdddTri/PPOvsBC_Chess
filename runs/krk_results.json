@@ -1,0 +1,21 @@
+{
+  "positions": 300,
+  "random": {
+    "positions": 300,
+    "mate_rate": 0.01,
+    "fail_rate": 0.99,
+    "avg_plies_to_mate": 55.0
+  },
+  "bc": {
+    "positions": 300,
+    "mate_rate": 0.18333333333333332,
+    "fail_rate": 0.8166666666666667,
+    "avg_plies_to_mate": 47.10909090909091
+  },
+  "ppo": {
+    "positions": 300,
+    "mate_rate": 0.9033333333333333,
+    "fail_rate": 0.09666666666666666,
+    "avg_plies_to_mate": 33.103321033210335
+  }
+}

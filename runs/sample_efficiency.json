@@ -1,0 +1,157 @@
+{
+  "bc": [
+    {
+      "positions": 50000,
+      "win_rate": 0.28,
+      "draw_rate": 0.66,
+      "loss_rate": 0.06
+    },
+    {
+      "positions": 200000,
+      "win_rate": 0.2,
+      "draw_rate": 0.8,
+      "loss_rate": 0.0
+    },
+    {
+      "positions": 1000000,
+      "win_rate": 0.28,
+      "draw_rate": 0.71,
+      "loss_rate": 0.01
+    },
+    {
+      "positions": 5000000,
+      "win_rate": 0.53,
+      "draw_rate": 0.47,
+      "loss_rate": 0.0
+    }
+  ],
+  "ppo": [
+    {
+      "steps": 50000,
+      "win_rate": 0.05,
+      "draw_rate": 0.925,
+      "loss_rate": 0.025
+    },
+    {
+      "steps": 100000,
+      "win_rate": 0.0,
+      "draw_rate": 1.0,
+      "loss_rate": 0.0
+    },
+    {
+      "steps": 150000,
+      "win_rate": 0.1,
+      "draw_rate": 0.9,
+      "loss_rate": 0.0
+    },
+    {
+      "steps": 200000,
+      "win_rate": 0.05,
+      "draw_rate": 0.95,
+      "loss_rate": 0.0
+    },
+    {
+      "steps": 250000,
+      "win_rate": 0.05,
+      "draw_rate": 0.925,
+      "loss_rate": 0.025
+    },
+    {
+      "steps": 300000,
+      "win_rate": 0.175,
+      "draw_rate": 0.825,
+      "loss_rate": 0.0
+    },
+    {
+      "steps": 350000,
+      "win_rate": 0.1,
+      "draw_rate": 0.875,
+      "loss_rate": 0.025
+    },
+    {
+      "steps": 400000,
+      "win_rate": 0.125,
+      "draw_rate": 0.875,
+      "loss_rate": 0.0
+    },
+    {
+      "steps": 450000,
+      "win_rate": 0.075,
+      "draw_rate": 0.875,
+      "loss_rate": 0.05
+    },
+    {
+      "steps": 500000,
+      "win_rate": 0.15,
+      "draw_rate": 0.8,
+      "loss_rate": 0.05
+    },
+    {
+      "steps": 550000,
+      "win_rate": 0.125,
+      "draw_rate": 0.8,
+      "loss_rate": 0.075
+    },
+    {
+      "steps": 600000,
+      "win_rate": 0.15,
+      "draw_rate": 0.85,
+      "loss_rate": 0.0
+    },
+    {
+      "steps": 650000,
+      "win_rate": 0.225,
+      "draw_rate": 0.775,
+      "loss_rate": 0.0
+    },
+    {
+      "steps": 700000,
+      "win_rate": 0.075,
+      "draw_rate": 0.9,
+      "loss_rate": 0.025
+    },
+    {
+      "steps": 750000,
+      "win_rate": 0.275,
+      "draw_rate": 0.675,
+      "loss_rate": 0.05
+    },
+    {
+      "steps": 800000,
+      "win_rate": 0.15,
+      "draw_rate": 0.85,
+      "loss_rate": 0.0
+    },
+    {
+      "steps": 850000,
+      "win_rate": 0.125,
+      "draw_rate": 0.825,
+      "loss_rate": 0.05
+    },
+    {
+      "steps": 900000,
+      "win_rate": 0.15,
+      "draw_rate": 0.85,
+      "loss_rate": 0.0
+    },
+    {
+      "steps": 950000,
+      "win_rate": 0.2,
+      "draw_rate": 0.775,
+      "loss_rate": 0.025
+    },
+    {
+      "steps": 1000000,
+      "win_rate": 0.1,
+      "draw_rate": 0.9,
+      "loss_rate": 0.0
+    },
+    {
+      "steps": 1001472,
+      "win_rate": 0.225,
+      "draw_rate": 0.775,
+      "loss_rate": 0.0
+    }
+  ],
+  "eval_games": 100
+}
